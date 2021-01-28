@@ -45,3 +45,5 @@ class MyScript():
             time.sleep(6)
             output= cmd.recv(10000)
             print(output.decode())
+            
+(f'tftp {tftp} put vrpcfg.zip {swname}.zip'+'\n')
