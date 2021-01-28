@@ -2,7 +2,7 @@ import paramiko
 import time
 #from time import sleep
 
-#tftp = input('Eenter your tftp_address:')
+#tftp = input('Enter your tftp_address:')
 
 class MyScript():
     #定义构造方法（特殊方法，魔法方法）
